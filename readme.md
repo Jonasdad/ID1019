@@ -1,0 +1,1 @@
+ID1019 - A functional programming course given at KTH. In this repository you'll find several different algorithms and data structures e.g. Huffman encoding and Binary Trees implemented in the functional programming language Elixir
